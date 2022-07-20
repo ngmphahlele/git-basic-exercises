@@ -1,0 +1,261 @@
+    1  git config --global user.name 'Gilbert Mphahlele'
+    2  git config --global user.email 'Gilbert.Mphahlele@bcx.co.za'
+    3  ls
+    4  cd Desktop
+    5  ls
+    6  cd UmuziTraining
+    7  ls
+    8  ls
+    9  cd NamaneechoeuGilbert-Mphahlele-219-level-1-programming-katas-javascript
+   10  git checkout main
+   11  git pull
+   12  code
+   13  git checkout task1/3
+   14  git status
+   15  git add task1.3.js
+   16  git commit -m "removed extra brackets and used strict comparison"
+   17  git checkout main
+   18  git pull
+   19  git checkout task1/3
+   20  git push
+   21  git checkout main
+   22  git pull
+   23  git checkout task1/6
+   24  git status
+   25  git add task1.6.js
+   26  git commit -m "updated variable declarations"
+   27  git checkout main
+   28  git pull
+   29  git checkout task1/6
+   30  git push
+   31  git checkout main
+   32  git branch
+   33  git checkout task1/5
+   34  ls
+   35  git status
+   36  git add task1.5.js
+   37  git commit -m "Updated solution for Task 1.5 and 2.2"
+   38  git checkout main
+   39  git pull
+   40  git checkout task1/5
+   41  git push
+   42  git push --set-upstream origin task1/5
+   43  git status
+   44  git add task1.5.js
+   45  git status
+   46  git task1.5.js
+   47  git add task1.5.js
+   48  git commit -m "Added solution to Task 1.5 and Task 2.2"
+   49  git checkout main
+   50  git pull
+   51  git checkout task1/5
+   52  git push
+   53  git checkout main
+   54  git pull
+   55  git branch -r
+   56  git push origin --delete  origin/task/1
+   57  git checkout task1/3
+   58  git status
+   59  git add task1.3.js
+   60  git commit -m "updated solution with requested changes"
+   61  git checkout main
+   62  git pull
+   63  git checkout task1/3
+   64  git push
+   65  git checkout main
+   66  git pull
+   67  code
+   68  code
+   69  git checkout task1/5
+   70  git status
+   71  git task1.5.js
+   72  git add task1.5.js
+   73  git commit -m "Updated solution to Tasks 1.5 and 2.2"
+   74  git checkout main
+   75  git pull
+   76  git checkout task1/5
+   77  git push
+   78  git checkout main
+   79  git branch
+   80  git branch r
+   81  git branch -a
+   82  git push origin --delete remotes/origin/task/3
+   83  git push origin --delete origin/task/3
+   84  git push origin --delete 'origin/task/3'
+   85  ls
+   86  cd Desktop
+   87  ls
+   88  cd UmuziTraining
+   89  ls
+   90  cd NamaneechoeuGilbert-Mphahlele-219-level-1-programming-katas-javascript
+   91  code
+   92  ls
+   93  cd Desktop
+   94  ls
+   95  cd UmuziTraining
+   96  ls
+   97  ls -lrt
+   98  ls -lrt
+   99  cd NamaneechoeuGilbert-Mphahlele-219-level-1-programming-katas-javascript
+  100  git remote -v
+  101  code
+  102  code
+  103  git pull
+  104  git branch
+  105  git checkout task1/5
+  106  git status
+  107  git add task1.5.js
+  108  git commit -m "Removed an empty space at the end of the result when printing right and isosceles triangles."
+  109  git checkout main
+  110  git pull
+  111  git checkout task1/5
+  112  git push
+  113  git checkout main
+  114  cd ..
+  115  ls
+  116  cd Desktop/UmuziTraining/
+  117  ls
+  118  cd animals
+  119  git remote -v
+  120  git branch
+  121  git checkout animals
+  122  ls 
+  123  code animals.js
+  124  git checkout main\
+  125  git checkout main
+  126  git checkout animals
+  127  git status
+  128  git add animals.js
+  129  git commit -m "Updated Animal class"
+  130  git checkout main
+  131  git pull
+  132  git checkout animals
+  133  git push
+  134  git checkout main
+  135  git remote -v
+  136  git checkout animals
+  137  git status
+  138  git add animals.js
+  139  git commit -m "Added Home class"
+  140  git push
+  141  git checkout main
+  142  ls
+  143  cd Desktop/UmuziTraining/animals
+  144  git remote -v
+  145  git checkout main
+  146  git checkout animals
+  147  git status
+  148  git add animals.js
+  149  git commit -m "Updated according to the latest instructions"
+  150  git checkout main
+  151  git pull
+  152  git checkout animals
+  153  git push
+  154  git checkout main
+  155  cd ..
+  156  ls /
+  157  pwd
+  158  ls
+  159  pwd
+  160  cd ..
+  161  cd -
+  162  cd ../
+  163  cd -
+  164  cd animals
+  165  git checkout animals
+  166  ls
+  167  git status
+  168  git add animals.js 
+  169  git coomit -m "Updated code with requested changes"
+  170  git commit  -m "Updated code with requested changes"
+  171  git checkout main
+  172  git pull
+  173  git checkout animals
+  174  git push
+  175  git checkout main
+  176  cd ..
+  177  mkdir test
+  178  mkdir testdir
+  179  rm testdir
+  180  cd testdir
+  181  touch test.txt
+  182  vi test.txt
+  183  ll
+  184  cd ..
+  185  mkdir testd
+  186  ls
+  187  rm -r testd
+  188  rm -r testdir
+  189  ls
+  190  cd "C:\Users\mphahng1\Desktop\UmuziTraining"
+  191  ls
+  192  cd git-basic-exercises
+  193  ls -a
+  194  git init
+  195  ls -a
+  196  git status
+  197  touch README.md
+  198  ls -a
+  199  git status
+  200  git log
+  201  git add README.md
+  202  git status
+  203  git log
+  204  git commit -m "initial commit"
+  205  git log
+  206  nano README.md
+  207  cat README.md
+  208  git status
+  209  git add README.md
+  210  git commit -m "second commit"
+  211  git status
+  212  git log
+  213  cat README.md
+  214  nano README.md
+  215  git status
+  216  git add README.md
+  217  git commit -m "third commit"
+  218  git status
+  219  git log
+  220  git checkout 0cf668868f62e6c4769dfddce653796583ce005b
+  221  cat README.md
+  222  git checkout main
+  223  cd ..
+  224  cd git-basic-exercises
+  225  ls -a
+  226  git init
+  227  git checkout main
+  228  git checkout -b main
+  229  git status
+  230  touch README.md
+  231  git status
+  232  git add README.md
+  233  git status
+  234  git commit -m "initial commit"
+  235  nano README.md
+  236  git status
+  237  git commit -am "second commit"
+  238  nano README.md
+  239  git status
+  240  git commit -am "third commit"
+  241  git status
+  242  git log
+  243  git checkout f02cf6b67fb2d8a5e0cc25a7481ba4baaf084a47
+  244  cat README.md
+  245  git checkout main
+  246  cat README.md
+  247  git branch
+  248  git checkout -b milkshake-flavours
+  249  git branch
+  250  nano milkshakes.md
+  251  git status
+  252  git add milkshakes.md 
+  253  git commit -m "added initial flavours"
+  254  git status
+  255  git log
+  256  git checkout main
+  257  git log
+  258  git checkout -b history
+  259  git log
+  260  git branch
+  261  history > history.txt
